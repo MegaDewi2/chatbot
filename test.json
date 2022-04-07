@@ -1,0 +1,56 @@
+{
+    "simanta": [
+        {   "tag": "jumlah_skpi",
+            "question": ["berapa jumlah skpi yang harus dipenuhi untuk kelulusan?", "jumlah skpi"],
+            "answer": ["Jumlah minimal SKPI yang harus dipenuhi adalah 350 point"]
+        },
+        {   "tag": "kegiatan_skpi",
+            "question": ["kegiatan apa saja yang mendapat poin skpi?"],
+            "answer": ["1. Bidang Kegiatan Organisasi dan Kepemimpinan, 2. Bidang Kegiatan Penalaran dan Keilmuan, 3. Bidang Kegiatan Minat Bakat dan Kegemaran, 4. Bidang Kegiatan Sosial, 5. Kegiatan Lain (Study Comparatif, Magang, dll), 6. Bidang Kegiatan Keagamaan, 7. Kegiatan Wajib (Kegiatan yang wajib diikuti mahasiswa dan bersertifikat). Dapat dilihat di https://skpi.umm.ac.id/"]
+        },
+        {   "tag": "mulai_ta",
+            "question": ["kapan sebaiknya mulai mengerjakan tugas akhir?", "kapan sebaiknya mulai mengerjakan skripsi?", "kapan sebaiknya mulai mengerjakan ta?"],
+            "answer": ["Pada semester terdapat mata kuliah praskripsi yang menjadi awal dari pembuatan proposal skripsi"]
+        },
+        {   "tag": "deadline_revisi_sempro",
+            "question": ["berapa lama batas pengerjaan revisi setelah seminar proposal?", "berapa lama deadline revisi setelah seminar proposal?", "berapa lama batas pengerjaan revisi setelah sempro?","berapa lama deadline revisi setelah sempro?"],
+            "answer": ["Pengerjaan revisi setelah seminar proposal paling lambat 1 minggu atau 7 hari."]
+        },
+        {   "tag": "deadline_revisi_sidang",
+            "question": ["berapa lama batas pengerjaan revisi setelah sidang tugas akhir?", "berapa lama deadline revisi setelah sidang tugas akhir?", "berapa lama batas pengerjaan revisi setelah sidang?","berapa lama deadline revisi setelah sidang?"],
+            "answer": ["Pengerjaan revisi setelah sidang TA paling lambat 2 minggu atau 14 hari"]
+        },
+        {   "tag": "syarat_kelulusan",
+            "question": ["apa saja syarat kelulusan?", "syarat kelulusan"],
+            "answer": ["Mahasiswa Program Sarjana dinyatakan lulus bila telah berhasil menyelesaikan seluruh beban studi dan kewajiban lainnya dengan IPK >= 2,00 tanpa nilai D dan E"]
+        },
+        {   "tag": "predikat_kelulusan",
+            "question": ["Bagaimana tingkatan lulusan?", "Tingkatan lulusan"],
+            "answer": ["Kepada lulusan program Diploma, Sarjana, Profesi, Magister, dan Doktor diberikan Predikat kelulusan yang terdiri dari 3 (tiga) tingkat yaitu: Memuaskan, Sangat Memuaskan, dan Dengan Pujian"]
+        },
+        {   "tag": "indikator_predikat",
+            "question": ["Apa saja indikator dalam predikat kelulusan?", "indikator predikat kelulusan"],
+            "answer": ["Predikat kelulusan dilihat dari Indeks Prestasi Kumulatif(IPK) dan waktu penyelesaian studi"]
+        },
+        {   "tag": "ipk",
+            "question": ["Bagaimana predikat kelulusan berdasarkan Indeks Prestasi Kumulatif dan waktu penyelesaian studi?", "Bagaimana predikat kelulusan berdasarkan IPK?", "Predikat kelulusan berdasarkan IPK"],
+            "answer": ["1. Memuaskan IPK 2,76 sampai 3,00; 2. Sangat memuaskan IPK 3,01 sampai 3,50; 3. Dengan pujian IPK lebih dari 3,50 dan lulus dalam masa studi maksimal 6 (enam) semester untuk Diploma Tiga dan 8 (delapan) semester untuk Program Sarjana."]
+        },
+        {   "tag": "lulusan_terbaik",
+            "question": ["Bagaimana penentuan lulusan terbaik tingkat Fakultas dan Universitas? "],
+            "answer": ["Penentuan Lulusan Terbaik tingkat Fakultas dan Universitas berdasarkan indeks dengan mempertimbangkan Indeks Prestasi Kumulatif, lama Studi, Surat Keterangan Pendamping Ijazah (SKPI), prosentase plagiasi, nilai Tugas Akhir bagi lulusan Diploma dan Sarjana; dengan porsi: Indeks Prestasi Kumulatif: 40%, Lama Studi: 30%, SKPI: 10%, prosentase plagiasi: 10%, dan nilai Tugas Akhir: 10%"]
+        },
+        {   "tag": "tata_tertib_ujian_ta",
+            "question": ["Bagaimana Tata Tertib Ujian Tugas Akhir?", "Tata tertib ujian Tugas Akhir", "Tata tertib ujian TA", "Tata tertib sidang TA", "Tata tertib sidang skripsi"],
+            "answer": ["1. Ujian Tugas Akhir diikuti oleh mahasiswa aktif yang namanya tercantum dalam daftar peserta Ujian Tugas Akhir sesuai dengan keputusan Dekan/Direktur. 2. Persyaratan mengikuti Ujian Tugas Akhir telah lulus semua matakuliah dan telah mengumpulkan naskah TA yang telah disetujui pembimbing. 3. Perserta hadir 15 (lima belas) menit sebelum ujian berlangsung. 4. Peserta berbaju putih, berdasi, celana/bawahan gelap, bersepatu, dengan mengenakan jas almamater. 5. Peserta tidak melakukan pelanggaran terhadap pertaturan disiplin mahasiswa dan alumnus UMM. 6. Hal-hal yang belum tercantum dalam tata tertib ini diatur lebih lanjut Fakultas/Program Studi"]
+        },
+        {   "tag": "wajib_lulus",
+            "question": ["Berapa maksimal semester mahasiswa wajib lulus?"],
+            "answer": ["Mahasiswa dinyatakan lulus sebagai Sarjana jika telah menyelesaikan beban studi dalam program studinya dengan IPK >= 2,0 tanpa nilai D dan E dalam waktu maksimal 14 (empat belas) semester."]
+        },
+        {   "tag": "taep",
+            "question": ["Test TAEP bagi wisudan"],
+            "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
+        }
+    ]
+}
