@@ -28,10 +28,6 @@
             "question": ["bagaimana alur pengerjaan Tugas Akhir?", "alur tugas akhir"],
             "answer": ["1. Pengajuan judul, 2. Pembuatan proposal, 3. Seminar proposal, 4. SK TA, 5. Sidang Tugas Akhir, 6. Seminar Hasil, 7. Yudisium, 8. Wisuda"]
         },
-        {   "tag": "template_proposal",
-            "question": ["apakah ada template untuk proposal tugas akhir?", "template proposal tugas akhir"],
-            "answer": ["Template Proposal Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
-        },
         {   "tag": "sempro",
             "question": ["apa itu seminar proposal?", "apa itu sempro?", "apa yang dimaksud dengan seminar proposal?", "apa yang dimaksud dengan sempro?"],
             "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Untuk informasi pendaftaran proposal TA dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
@@ -95,6 +91,10 @@
         {   "tag": "template_ta",
             "question": ["apakah ada template untul draft tugas akhir lengkap?", "template draft tugas akhir lengkap?"],
             "answer": ["Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
+        },
+        {   "tag": "template_proposal",
+            "question": ["apakah ada template untuk proposal tugas akhir?", "template proposal tugas akhir"],
+            "answer": ["Template Proposal Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
         },
         {   "tag": "bimbingan",
             "question": ["bagaimana mengetahui jadwal bimbingan setiap dosen?", "jadwal bimbingan setiap dosen"],
@@ -253,5 +253,4 @@
             "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
         }
     ]
- 
 }
