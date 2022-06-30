@@ -1,4 +1,5 @@
-{
+{"informatika":
+ {
 	"simanta": [
         {   "tag": "salam_pembuka",
             "question": ["hai", "hallo", "permisi"],
@@ -253,4 +254,5 @@
             "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
         }
     ]
+ }
 }
