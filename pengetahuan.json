@@ -1,0 +1,255 @@
+{"simanta": [
+        {   "tag": "salam_pembuka",
+            "question": ["hai", "hallo", "permisi"],
+            "answer": ["hai", "hallo", "iya silahkan", "ada yang bisa dibantu?"]
+        },
+        {   "tag": "salam_penutup",
+            "question": ["terima kasih"],
+            "answer": ["Dengan senang hati", "sama-sama"]
+        },
+        {   "tag" : "skripsi",
+            "question": ["apa itu tugas akhir?", "apa itu skripsi?", "apa yang dimaksud dengan tugas akhir?", "apa yang dimaksud dengan skripsi?"],
+            "answer": ["Skripsi adalah salah satu mata kuliah dan menjadi syarat untuk kelulusan dalam bentuk penelitian sebanyak 6 sks"]
+        }, 
+        {   "tag": "syarat_ujian_ta",
+            "question": ["Apa persyaratan mengikuti ujian tugas akhir?","syarat mengikuti ujian TA", "syarat ujian TA"],
+            "answer": ["Persyaratan mengikuti ujian Tugas Akhir telah lulus semua matakuliah dan telah mengumpulkan naskah TA yang telah disetujui pembimbing"]
+        },
+        {   "tag": "proposal_ta",
+            "question": ["apa itu proposal tugas akhir?", "proposal tugas akhir", "apa itu proposal ta?", "proposal ta"],
+            "answer": ["Proposal Tugas AKhir merupakan usulan dari ide yang ingin di teliti. Proposal TA terdiri dari 3 BAB, yaitu Pendahuluan, Metode Penelitian, dan Kesimpulan. Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
+        },
+        {   "tag": "laporan_ta",
+            "question": ["apa itu laporan tugas akhir?", "laporan tugas akhir", "apa itu laporan ta?", "laporan ta"],
+            "answer": ["Laporan Tugas Akhir dibuat setelah penelitian dilakukan. Laporan TA terdiri 5 BAB, yaitu Pendahuluan, Tinjaun Pustaka, Metodologi Penelitian, Hasil dan Pembahasan, dan Kesimpulan. Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM "]
+        },
+        {   "tag": "alur_pengerjaan",
+            "question": ["bagaimana alur pengerjaan Tugas Akhir?", "alur tugas akhir"],
+            "answer": ["1. Pengajuan judul, 2. Pembuatan proposal, 3. Seminar proposal, 4. SK TA, 5. Sidang Tugas Akhir, 6. Seminar Hasil, 7. Yudisium, 8. Wisuda"]
+        },
+        {   "tag": "sempro",
+            "question": ["apa itu seminar proposal?", "apa itu sempro?", "apa yang dimaksud dengan seminar proposal?", "apa yang dimaksud dengan sempro?"],
+            "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Untuk informasi pendaftaran proposal TA dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "sidang",
+            "question": ["apa itu sidang tugas akhir?", "apa itu sidang ta?", "apa yang dimaksud dengan sidang tugas akhir?", "apa yang dimaksud dengan sidang ta?"],
+            "answer": ["Sidang untuk mempresentasikan laporan tugas akhir. Untuk informasi pendaftaran sidang TA dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "semhas",
+            "question": ["apa itu seminar hasil?", "apa itu semhas?", "apa yang dimaksud dengan seminar hasil?", "apa yang dimaksud dengan semhas?"],
+            "answer": ["Seminar hasil adalah seminar untuk mempresentasikan hasil dari penelitian kepada adik tingkat. Untuk informasi pendaftaran seminar hasil dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA "]
+        },
+        {   "tag": "yudisium",
+            "question": ["apa itu yudisium?", "apa yang dimaksud dengan yudisium?"],
+            "answer": ["Yudisium adalah proses akademik yang menyangkut penerapan nilai dan kelulusan mahasiswa dari seluruh pross akademik yang telah dijalaninya. Untuk informasi pendaftaran yudisium dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA "]
+        },
+        {   "tag": "wisuda",
+            "question": ["apa itu wisuda?", "apa yang dimaksud dengan wisuda?"],
+            "answer": ["Wisuda adalah proses akhir dalam rangkaian kegiata akademik pada sebuah perguruan tinggi. Untuk pendaftara wisuda dapat dilakukan di https://infokhs.umm.ac.id/"]
+        },
+        {   "tag": "syarat_sempro",
+            "question": ["apa saja syarat untuk seminar proposal?", "apa saja syarat untuk sempro?", "syarat seminar proposal", "syarat sempro"],
+            "answer":["Untuk mendaftar seminar proposal diperlukan dokumen sebagai berikut: 1. Form rekomendasi judul TA oleh dosen pembimbing, 2. Lembar Kendali menghadiri Seminar Hasil sebagai audiens, 3. Draft Proposal TA"]
+        },
+        {   "tag": "syarat_sidang",
+            "question": ["apa saja syarat untuk sidang tugas akhir?", "apa saja syarat untuk sidang?", "syarat sidang tugas akhir", "syarat sidang"],
+            "answer":["Untuk  mendaftar sidang TA diperlukan dokumen administrasi sebagai berikut 1. Check list persyaratan ujian TA, 2. Laporan Tugas AKhir BAB 5 (format PDF), 3. Laporan Tugas Akhir BAB 4 (format PDF), 4. Laporan Tugas Akhir BAB 3 (format PDF), 5. Laporan Tugas Akhir BAB 2 (format PDF), 6. Laporan Tugas Akhir BAB 1 (format PDF), 7. Form cek plagiarisme dan ditanda tangani Dosen Pembimbing / Koordinator cek plagiarisme, 8. Tanda Terima jurnal repositor, 9. Form pendaftaran Seminar Hasil, 10. Scan Form Asistensi Tugas Akhir, 11. Laporan Tugas AKhir lengkap. Selebihnya dapat diakses di https://bit.ly/TemplateTugasAkhirUMM"]
+        },
+        {   "tag": "syarat_semhas",
+            "question": ["apa saja syarat untuk seminar hasil?", "apa saja syarat untuk semhas?", "syarat seminar hasil", "syarat semhas"],
+            "answer":["Untuk mendaftar seminar hasil diperlukan dokumen administrasi sebagai berikut Lembar Berita Acara Seminar Proposal, Lembar Asistensi Dosen Pembimbing (Minimal 10x bimbingan), dan draft buku TA"]
+        },
+        {   "tag": "syarat_yudisium",
+            "question": ["apa saja syarat untuk yudisium?", "syarat yudisium"],
+            "answer":["Untuk melakukan pendaftaran yudisium harus melengkapi berkas seperti berita acara ujian TA, form cek plagiasi, dll"]
+        },
+        {   "tag": "syarat_wisuda",
+            "question": ["apa saja syarat untuk wisuda?", "syarat wisuda"],
+            "answer":["Prasyarat pendaftaran wisuda sebagai berikut: 1. Bebas tanggungan dari Program Studi, 2. Kesesuaian periode wisuda, 3. Pembayaran wisuda, 4. Pengisian tracer studi (http://karir.umm.ac.id/v2), 5. Deposit Toga. Untuk info lebih lanjut silahkan konfirmasi ke biro kemahasiswaan UMM."]
+        },
+        {   "tag": "dosbing",
+            "question": ["berapa jumlah dosen pembimbing dalam pengerjaan tugas akhir?"],
+            "answer": ["Dalam pengerjaan tugas akhir mahasiswa akan dibantu oleh dua (2) dosen pembimbing"]
+        },
+        {   "tag": "dosbing_1",
+            "question": ["apakah dosen pembimbing tugas akhir ditentukan langsung oleh program studi?"],
+            "answer": ["Dosen Pembimbing Tugas Akhir dapat dipilih sendiri oleh mahasiswa. Untuk melihat ketersediaan dosen dapat diakses di https://simanta.umm.ac.id/"]
+        },
+        {   "tag": "memilih_dosbing",
+            "question": ["bagaimana cara memilih dosen pembimbing?", "memilih dosen pembimbing"],
+            "answer": ["Pemilihan Dosen Pembimbing Tugas Akhir disarankan memilih sesuai dengan penjurusan yang diambil. Untuk melihat ketersediaan dosen dapat diakses di https://simanta.umm.ac.id"]
+        },
+        {   "tag": "memilih_dosbing_1",
+            "question": ["apakah dosen pembimbing yang dipilih harus sesuai dengan penjurusan yang diambil?"],
+            "answer": ["Pemilihan Dosen Pembimbing Tugas Akhir disarankan memilih sesuai dengan penjurusan yang diambil. Untuk melihat ketersediaan dosen dapat diakses di https://simanta.umm.ac.id"]
+        },
+        {   "tag": "syarat_bimbingan",
+            "question": ["Berapa jumlah maksimal bimbingan tugas akhir?", "Maksimal Bimbingan Tugas Akhir"],
+            "answer": ["Jumlah maksimal bimbingan Tugas Akhir bagi setiap dosen adalah 10 (sepuluh) mahasiswa tiap semester"]
+        },
+        {   "tag": "template_ta",
+            "question": ["apakah ada template untul draft tugas akhir lengkap?", "template draft tugas akhir lengkap?"],
+            "answer": ["Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
+        },
+        {   "tag": "template_proposal",
+            "question": ["apakah ada template untuk proposal tugas akhir?", "template proposal tugas akhir"],
+            "answer": ["Template Proposal Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
+        },
+        {   "tag": "bimbingan",
+            "question": ["bagaimana mengetahui jadwal bimbingan setiap dosen?", "jadwal bimbingan setiap dosen"],
+            "answer": ["Jadwal bimbingan setiap dosen sudah ditentukan oleh program studi, namun beberapa dosen memiliki jadwal bimbingan tersendiri. Informasi mengenai bimbingan diinfokan melalui grup monitoring mahasiswa setiap angkatan."]
+        },
+        {   "tag": "judul",
+            "question":["apakah ada batasan untuk judul tugas akhir?", "batasan judul tugas akhir"],
+            "answer": ["Tidak ada, pengambilan judul atau topik tugas akhir sebaiknya sesuai dengan penjurusan yang diambil dan kemampuan pribadi atau dapat mengambil tawaran tugas akhir dari dosen yang dapat dilihat di https://bit.ly/TawaranTopikTA"]
+        },
+        {   "tag": "pengambilan_ta",
+            "question": ["apakah boleh mengambil tugas akhir ketika masih ada mata kuliah yang belum diselesaikan?"],
+            "answer": ["Bisa saja, asalkan mahasiswa mampu"]
+        },
+        {   "tag": "topik_ta",
+            "question": ["bagaimana cara menentukan topik tugas akhir?", "menentukan topik tugas akhir"],
+            "answer": ["Menentukan topik tugas akhir sesuai dengan penjurusan dan kemampuan masing-masing mahasiswa atau dapat mengambil tawaran tugas akhir dari dosen yang dapat dilihat di https://bit.ly/TawaranTopikTA"]
+        },
+        {   "tag": "mengajukan_judul",
+            "question": ["bagaimana cara mengajukan judul tugas akhir?"],
+            "answer": ["Mengajukan judul tugas akhir langsung menghubungi dosen pembimbing yang telah dipilih. Jika ingin mengambil tawaran topik tugas akhir juga langsung menghubungi dosen yang bersangkutan."]
+        },
+        {   "tag": "pengambilan_data",
+            "question": ["data yang digunakan apakah harus mencari data sendiri atau dapat menggunakan data yang sudah ada?"],
+            "answer" : ["Jika penelitian diperlukan data, dapat mengambil data publik atau mengumpulkan data sendiri dengan observasi, interview, ataupun mengambil dari website yang bersangkutan"]
+        },
+        {   "tag": "perbedaan_tahap",
+            "question": ["apa perbedaan dari seminar proposal, seminar hasil, dan yudisium?"],
+            "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Sidang tugas akhir merupakan sidang untuk mempresentasikan laporan tugas akhir. Seminar hasil adalah seminar untuk mempresentasikan hasil dari penelitian kepada adik tingkat."]
+        },
+        {   "tag": "sempro_1",
+            "question": ["apa itu seminar proposal?", "seminar proposal adalah"],
+            "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Untuk informasi pendaftaran proposal dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "informasi",
+            "question" : ["informasi mengenai tugas akhir dapat diakses dimana?"],
+            "answer": ["Informasi mengenai tugas akhir dapat di akses di https://simanta.umm.ac.id/"]
+        },
+        {   "tag": "pendaftaran_sempro",
+            "question": ["bagaimana tata cara melakukan pendaftaran seminar proposal?", "pendaftaran seminar proposal", "pendaftaran sempro"],
+            "answer": ["Panduan pendaftaran seminar proposal dapat dilihat di panduan https://bit.ly/PanduanSIMTA. Untuk melakukan pendaftaran seminar proposal harus melengkapi berkas seperti Form rekomendasi judul TA oleh dosen pembimbing, Lembar Kendali menghadiri Seminar Hasil sebagai audiens, dan Draft Proposal TA"]
+        },
+        {   "tag": "pendaftaran_sidang",
+            "question": ["bagaimana tata cara melakukan pendaftaran sidang akhir?", "pendaftaran sidang akhir", "pendaftaran sidang"],
+            "answer": ["Panduan pendaftaran sidang TA dapat dilihat di panduan https://bit.ly/PanduanSIMTA"] 
+        },
+        {   "tag": "pendaftaran_semhas",
+            "question" :["bagaimana tata cara melakukan pendaftaran seminar hasil?", "pendaftaran seminar hasil", "pendaftaran semhas"],
+            "answer" :["Panduan pendaftaran seminar hasil dapat dilihat di panduan https://bit.ly/PanduanSIMTA. Untuk melakukan pendaftaran seminar hasil harus melengkapi berkas seperti Lembar Berita Acara Seminar Proposal, Lembar Asistensi Dosen Pembimbing (Minimal 10x bimbingan), dan draft buku TA"]
+        },
+        {   "tag" : "pendaftaran_yudisium",
+            "question" : ["bagaimana tata cara melakukan pendaftaran yudisium?", "pendaftaran yudisium"],
+            "answer": ["Panduan pendaftaran yudisium dapat dilihat di panduan https://bit.ly/PanduanSIMTA. Untuk melakukan pendaftaran seminar hasil harus melengkapi berkas seperti berita acara ujian TA, form cek plagiarism, dll"]
+        },
+        {   "tag" : "pendaftaran_wisuda",
+            "question" : ["bagaimana tata cara melakukan pendaftaran wisuda?", "pendaftaran wisuda"],
+            "answer": ["Pendafaran wisuda dapat dilakukan melalui https://infokhs.umm.ac.id/"]
+        },
+        {   "tag": "lulus_tanpa_ta",
+            "question": ["apakah bisa lulus tanpa mengerjakan skripsi?", "apakah bisa lulus tanpa mengerjakan tugas akhir?"],
+            "answer": ["Mahasiswa dapat lulus tanpa mengikuti serangkaian kegiatan untuk kelulusan dengan ekuivalensi dan hanya membuat laporan Tugas AKhir saja."]
+        },
+        {   "tag": "ekuivalensi",
+            "question": ["bagaimana lulus tanpa mengerjakan tugas akhir?", "bagaimana lulus tanpa mengerjakan skirpsi?"],
+            "answer": ["Mahasiswa dapat lulus tanpa mengejakan tugas akhir dengan cara ekuvalensi dari kegiatan yang telah diikuti."]
+        }, 
+        {   "tag": "pengganti_ta",
+            "question": ["apakah tugas akhir bisa digantikan dengan yang lain?", "apakah juara lomba dapat mengganti tugas akhir?"],
+            "answer": ["Tugas akhir dapat digantikan dengan 8 kegiatan seperti publikasi karya ilmiah terakreditasi, pembicaraan seminar ilmiah berskala internasional, hak cippta tingkat nasional, paten tingkat nasional, magang bersertifikat BUMN, juara dalam kompetisi karya inovasi, juara pimnas, dan mahasiswa berprestasi."]
+        },
+        {   "tag": "jenis_ekuivalensi",
+            "question": ["apa saja jenis kegiatan yang dapat menggantikan tugas akhir?"],
+            "answer": ["Terdapat 8 kegiatan yang dapat menggantikan tugas akhir yaitu publikasi karya ilmiah terakreditasi, pembicaraan seminar ilmiah berskala internasional, hak cippta tingkat nasional, paten tingkat nasional, magang bersertifikat BUMN, juara dalam kompetisi karya inovasi, juara pimnas, dan mahasiswa berprestasi"]
+        },
+        {   "tag": "ketentuan_ekuivalensi",
+            "question": ["apa saja ketentuan ekuivalensi tugas akhir?", "apa saja syarat ekuivalensi tugas akhir?"],
+            "answer": ["Untuk dapat melakukan ekuivalensi mahasiswa harus memenuhi salah satu dari kegiatan yang dapat di ekuivalensi. Info lebih lanjut dapat dilihat di https://bit.ly/EkuivalensiTA"]
+        },
+        {   "tag": "persiapan_sempro",
+            "question" : ["persiapan apa saja untuk melakukan seminar proposal?", "apa yang harus disiapkan untuk seminar proposal?"],
+            "answer": ["Untuk melakukan seminar proposal harus memenuhi syarat seminar proposal dan harus membuat presentasi. Untuk info lebih lanjut dapat dilihat di https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "persiapan_sidang",
+            "question" : ["persiapan apa saja untuk melakukan sidang tugas akkhir?", "apa yang harus disiapkan untuk sidang tugas akhir?"],
+            "answer": ["Untuk melakukan sidang TA harus memenuhi syarat sidang TA dan harus membuat presentasi. Untuk info lebih lanjut dapat dilihat di https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "persiapan_semhas",
+            "question" : ["persiapan apa saja untuk melakukan seminar hasil?", "apa yang harus disiapkan untuk seminar hasil?"],
+            "answer": ["Untuk melakukan seminar hasil harus memenuhi syarat seminar hasil dan harus membuat presentasi. Untuk info lebih lanjut dapat dilihat di https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "persiapan_yudisium",
+            "question" : ["persiapan apa saja untuk melakukan yudisium?", "apa yang harus disiapkan untuk yudisium?"],
+            "answer": ["Untuk melakukan yudisium harus memenuhi syarat yudisium. Untuk info lebih lanjut dapat dilihat di https://bit.ly/PanduanSIMTA"]
+        },
+        {   "tag": "persiapan_wisuda",
+            "question" : ["persiapan apa saja untuk melakukan wisuda?", "apa yang harus disiapkan untuk wisuda?"],
+            "answer": ["Sebelum wisuda mahasiswa diwajibkan untuk mengurus administrasi terlebih dahulu. Lebih lengkap dapat dilihat di https://bit.ly/AdministrasiWisuda"]
+        },
+        {   "tag": "sks",
+            "question": ["berapa jumlah sks yang harus dipenuhi untuk kelulusan?", "jumlah sks untuk kelulusan"],
+            "answer": ["Mahasiswa harus menyelesaikan 144 sks untuk kelulusan"]
+        },
+        {   "tag": "skpi",
+            "question": ["apa itu skpi?", "apa yang dimaksud dengan skpi?", "skpi adalah"],
+            "answer": ["Surat Keterangan Pendamping Ijazah (SKPI) merupakan surat pernyataan resmi yang dikeluarkan oleh Perguruan Tinggi, berisi informasi tentang pencapainan akademik atau kualifikasi dari lulusan pendidikan tinggi bergelar."]
+        },
+        {   "tag": "jumlah_skpi",
+            "question": ["berapa jumlah skpi yang harus dipenuhi untuk kelulusan?", "jumlah skpi"],
+            "answer": ["Jumlah minimal SKPI yang harus dipenuhi adalah 350 point"]
+        },
+        {   "tag": "kegiatan_skpi",
+            "question": ["kegiatan apa saja yang mendapat poin skpi?"],
+            "answer": ["1. Bidang Kegiatan Organisasi dan Kepemimpinan, 2. Bidang Kegiatan Penalaran dan Keilmuan, 3. Bidang Kegiatan Minat Bakat dan Kegemaran, 4. Bidang Kegiatan Sosial, 5. Kegiatan Lain (Study Comparatif, Magang, dll), 6. Bidang Kegiatan Keagamaan, 7. Kegiatan Wajib (Kegiatan yang wajib diikuti mahasiswa dan bersertifikat). Dapat dilihat di https://skpi.umm.ac.id/"]
+        },
+        {   "tag": "mulai_ta",
+            "question": ["kapan sebaiknya mulai mengerjakan tugas akhir?", "kapan sebaiknya mulai mengerjakan skripsi?", "kapan sebaiknya mulai mengerjakan ta?"],
+            "answer": ["Pada semester terdapat mata kuliah praskripsi yang menjadi awal dari pembuatan proposal skripsi"]
+        },
+        {   "tag": "deadline_revisi_sempro",
+            "question": ["berapa lama batas pengerjaan revisi setelah seminar proposal?", "berapa lama deadline revisi setelah seminar proposal?", "berapa lama batas pengerjaan revisi setelah sempro?","berapa lama deadline revisi setelah sempro?"],
+            "answer": ["Pengerjaan revisi setelah seminar proposal paling lambat 1 minggu atau 7 hari."]
+        },
+        {   "tag": "deadline_revisi_sidang",
+            "question": ["berapa lama batas pengerjaan revisi setelah sidang tugas akhir?", "berapa lama deadline revisi setelah sidang tugas akhir?", "berapa lama batas pengerjaan revisi setelah sidang?","berapa lama deadline revisi setelah sidang?"],
+            "answer": ["Pengerjaan revisi setelah sidang TA paling lambat 2 minggu atau 14 hari"]
+        },
+        {   "tag": "syarat_kelulusan",
+            "question": ["apa saja syarat kelulusan?", "syarat kelulusan"],
+            "answer": ["Mahasiswa Program Sarjana dinyatakan lulus bila telah berhasil menyelesaikan seluruh beban studi dan kewajiban lainnya dengan IPK >= 2,00 tanpa nilai D dan E"]
+        },
+        {   "tag": "predikat_kelulusan",
+            "question": ["Bagaimana tingkatan lulusan?", "Tingkatan lulusan"],
+            "answer": ["Kepada lulusan program Diploma, Sarjana, Profesi, Magister, dan Doktor diberikan Predikat kelulusan yang terdiri dari 3 (tiga) tingkat yaitu: Memuaskan, Sangat Memuaskan, dan Dengan Pujian"]
+        },
+        {   "tag": "indikator_predikat",
+            "question": ["Apa saja indikator dalam predikat kelulusan?", "indikator predikat kelulusan"],
+            "answer": ["Predikat kelulusan dilihat dari Indeks Prestasi Kumulatif(IPK) dan waktu penyelesaian studi"]
+        },
+        {   "tag": "ipk",
+            "question": ["Bagaimana predikat kelulusan berdasarkan Indeks Prestasi Kumulatif dan waktu penyelesaian studi?", "Bagaimana predikat kelulusan berdasarkan IPK?", "Predikat kelulusan berdasarkan IPK"],
+            "answer": ["1. Memuaskan IPK 2,76 sampai 3,00; 2. Sangat memuaskan IPK 3,01 sampai 3,50; 3. Dengan pujian IPK lebih dari 3,50 dan lulus dalam masa studi maksimal 6 (enam) semester untuk Diploma Tiga dan 8 (delapan) semester untuk Program Sarjana."]
+        },
+        {   "tag": "lulusan_terbaik",
+            "question": ["Bagaimana penentuan lulusan terbaik tingkat Fakultas dan Universitas? "],
+            "answer": ["Penentuan Lulusan Terbaik tingkat Fakultas dan Universitas berdasarkan indeks dengan mempertimbangkan Indeks Prestasi Kumulatif, lama Studi, Surat Keterangan Pendamping Ijazah (SKPI), prosentase plagiasi, nilai Tugas Akhir bagi lulusan Diploma dan Sarjana; dengan porsi: Indeks Prestasi Kumulatif: 40%, Lama Studi: 30%, SKPI: 10%, prosentase plagiasi: 10%, dan nilai Tugas Akhir: 10%"]
+        },
+        {   "tag": "tata_tertib_ujian_ta",
+            "question": ["Bagaimana Tata Tertib Ujian Tugas Akhir?", "Tata tertib ujian Tugas Akhir", "Tata tertib ujian TA", "Tata tertib sidang TA", "Tata tertib sidang skripsi"],
+            "answer": ["1. Ujian Tugas Akhir diikuti oleh mahasiswa aktif yang namanya tercantum dalam daftar peserta Ujian Tugas Akhir sesuai dengan keputusan Dekan/Direktur. 2. Persyaratan mengikuti Ujian Tugas Akhir telah lulus semua matakuliah dan telah mengumpulkan naskah TA yang telah disetujui pembimbing. 3. Perserta hadir 15 (lima belas) menit sebelum ujian berlangsung. 4. Peserta berbaju putih, berdasi, celana/bawahan gelap, bersepatu, dengan mengenakan jas almamater. 5. Peserta tidak melakukan pelanggaran terhadap pertaturan disiplin mahasiswa dan alumnus UMM. 6. Hal-hal yang belum tercantum dalam tata tertib ini diatur lebih lanjut Fakultas/Program Studi"]
+        },
+        {   "tag": "wajib_lulus",
+            "question": ["Berapa maksimal semester mahasiswa wajib lulus?"],
+            "answer": ["Mahasiswa dinyatakan lulus sebagai Sarjana jika telah menyelesaikan beban studi dalam program studinya dengan IPK >= 2,0 tanpa nilai D dan E dalam waktu maksimal 14 (empat belas) semester."]
+        },
+        {   "tag": "taep",
+            "question": ["Test TAEP bagi wisudan"],
+            "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
+        }
+    ]
+}
