@@ -1,86 +1,82 @@
 {"simanta": [
         {   "tag": "salam_pembuka",
-            "question": ["hai", "hallo", "permisi"],
-            "answer": ["hai", "hallo", "iya silahkan", "ada yang bisa dibantu?"]
+            "question": ["hai", "hallo", "permisi", "hai kak",  "hai min","halo kak","halo min","permisi kak","permisi min","Assalamualaikum", "Assalamu'alaikum", "Assalamualaikum kak", "Assalamualaikum min", "Assalamu'alaikum kak", "Assalamu'alaikum min", "min, mau nanya", "kak, mau nanya", "permisi mau tanya", "permisi mau nanya", "mau tanya seputar ta", "saya ingin bertanya", "aku mau nanya"],
+            "answer": ["Halloo, Selamat Datang. Ada yang bisa dibantu?"]
         },
         {   "tag": "salam_penutup",
-            "question": ["terima kasih"],
-            "answer": ["Dengan senang hati", "sama-sama"]
+            "question": ["terima kasih", "makasih", "thank you", "thanks", "thx", "thank u", "terima kasih kak", "terima kasih min", "makasih kak", "makasih min","thank you kak", "thank you admin", "thank you min", "thank u kak", "thank u min", "thank u admin", "wassalamualaikum", "wassalamualaikum kak", "wassalamualaikum admin", "wassalamualaikum min"],
+            "answer": ["Dengan senang hati membantu kamu"]
         },
         {   "tag" : "skripsi",
-            "question": ["apa itu tugas akhir?", "apa itu skripsi?", "apa yang dimaksud dengan tugas akhir?", "apa yang dimaksud dengan skripsi?"],
-            "answer": ["Skripsi adalah salah satu mata kuliah dan menjadi syarat untuk kelulusan dalam bentuk penelitian sebanyak 6 sks"]
+            "question": ["apa itu tugas akhir?", "apa itu skripsi?", "apa yang dimaksud dengan tugas akhir?", "apa yang dimaksud dengan skripsi?", "skripsi","tugas akhir", "skripsi itu apa?", "apa sih skripsi?", "skripsi itu apa sih?", "skipsi apa ya?", "skripsi itu apa ya?", "tugas akhir itu apa?", "apa sih tugas akhir?", "tugas akhir itu apa sih?", "tugas akhir itu apa?", "apa sih tugas akhir?", "bentuk tugas akhir"],
+            "answer": ["Skripsi adalah salah satu mata kuliah dan menjadi tugas akhir sebagai syarat untuk kelulusan dalam bentuk penelitian sebanyak 6 sks"]
         }, 
         {   "tag": "syarat_ujian_ta",
-            "question": ["Apa persyaratan mengikuti ujian tugas akhir?","syarat mengikuti ujian TA", "syarat ujian TA"],
+            "question": ["Apa persyaratan mengikuti ujian tugas akhir?","syarat mengikuti ujian TA", "syarat ujian TA", "syarat ujian akhir", "syarat mengikuti ujian tugas akhir", "ujian tugas akhir", "ujian ta", "persyaratan ujian tugas akhir", "persyaratan ujian ta", "persyarat mengikuti ujian ta", "persyaratan mengikuti ujian tugas akhir", "syarat ujian tugas akhir apa?", "apa syarat mengikuti ujian tugas akhir", "syarat ujian ta apa?", "apa syarat mengikuti ujian ta"],
             "answer": ["Persyaratan mengikuti ujian Tugas Akhir telah lulus semua matakuliah dan telah mengumpulkan naskah TA yang telah disetujui pembimbing"]
         },
         {   "tag": "proposal_ta",
-            "question": ["apa itu proposal tugas akhir?", "proposal tugas akhir", "apa itu proposal ta?", "proposal ta"],
+            "question": ["apa itu proposal tugas akhir?", "proposal tugas akhir", "apa itu proposal ta?", "proposal ta", "proposal TA terdiri dari bab apa aja?", "proposal tugas akhir terdiri dari bab apa aja?", "bab proposal ta", "bab proposal tugas akhir", "bab proposal ta ada berapa?", "bab proposal tugas akhir ada berapa?", "berapa bab proposal ta?", "berapa bab proposal tugas akhir?", "bab proposal ta berapa?", "bab proposal tugas akhir berapa?", "apa aja bab proposal ta?", "apa aja bab untuk proposal ta", "apa aja bab proposal tugas akhir?", "apa aja bab untuk proposal tugas akhir", "bab proposal", "berapa bab untuk proposal?", "apa aja bab untuk proposal?"],
             "answer": ["Proposal Tugas AKhir merupakan usulan dari ide yang ingin di teliti. Proposal TA terdiri dari 3 BAB, yaitu Pendahuluan, Metode Penelitian, dan Kesimpulan. Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
         },
         {   "tag": "laporan_ta",
-            "question": ["apa itu laporan tugas akhir?", "laporan tugas akhir", "apa itu laporan ta?", "laporan ta"],
+            "question": ["apa itu laporan tugas akhir?", "laporan tugas akhir", "apa itu laporan ta?", "laporan ta", "laporan ta itu apa?", "laporan tugas akhir itu apa?", "laporan ta terdiri dari bab apa aja?", "laporan tugas akhir terdiri dari bab apa aja?", "apa aja bab dari laporan tugas akhir?", "apa aja bab dari laporan ta", "bab laporan ta", "bab laporan tugas akhir", "berapa bab untuk laporan tugas akhir?", "berapa bab untuk laporan ta?", "bab laporan ta berapa?", "bab laporan tugas akhir berapa", "bab laporan ta berapa?", "bab laporan tugas akhir berapa?", "apa aja bab laporan ta?", "apa aja bab laporan tugas akir?", "berapa bab untuk laporan ta?", "berapa bab untuk laporan tugas akhir"],
             "answer": ["Laporan Tugas Akhir dibuat setelah penelitian dilakukan. Laporan TA terdiri 5 BAB, yaitu Pendahuluan, Tinjaun Pustaka, Metodologi Penelitian, Hasil dan Pembahasan, dan Kesimpulan. Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM "]
         },
         {   "tag": "alur_pengerjaan",
-            "question": ["bagaimana alur pengerjaan Tugas Akhir?", "alur tugas akhir"],
-            "answer": ["1. Pengajuan judul, 2. Pembuatan proposal, 3. Seminar proposal, 4. SK TA, 5. Sidang Tugas Akhir, 6. Seminar Hasil, 7. Yudisium, 8. Wisuda"]
+            "question": ["bagaimana alur pengerjaan Tugas Akhir?","bagaimana alur pengerjaan ta", "alur tugas akhir", "alur pengerjaan tugas akhir", "alur ta", "alur pengerjaan ta", "urutan pengerjan tugas akhir", "urutan pengerjaan ta", "apakah seminar hasil lebih dulu dari pada sidang?", "antara seminar hasil dan sidang mana yang lebih dulu?", "apa kah terdapat sidang tugas akhir?", "apakah terdapat seminar hasil?", "alur dalam mengerjakan tugas akhir", "alur dalam mengerjaka ta"],
+            "answer": ["Alur pengerjaan tugas akhir sebagai berikut : 1. Pengajuan judul, 2. Pembuatan proposal, 3. Seminar proposal, 4. SK TA, 5. Sidang Tugas Akhir, 6. Seminar Hasil, 7. Yudisium, 8. Wisuda"]
         },
         {   "tag": "sempro",
-            "question": ["apa itu seminar proposal?", "apa itu sempro?", "apa yang dimaksud dengan seminar proposal?", "apa yang dimaksud dengan sempro?"],
+            "question": ["apa itu seminar proposal?", "apa itu sempro?", "apa yang dimaksud dengan seminar proposal?", "apa yang dimaksud dengan sempro?", "seminar proposal adalah", "sempro adalah",  "yang dimaksud dengan seminar proposal?", "yang dimaksud dengan sempro?","sempro itu apa?", "seminar proposal itu apa?", "seminar proposal", "sempro", "seminar proposal untuk apa?", "sempro untuk apa?", "tujuan seminar proposal", "tujuan sempro", "untuk apa seminar proposal?", "untuk apa sempro?", "seminar proposal bertujuan untuk?", "sempro bertujuan untuk?"],
             "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Untuk informasi pendaftaran proposal TA dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
         },
         {   "tag": "sidang",
-            "question": ["apa itu sidang tugas akhir?", "apa itu sidang ta?", "apa yang dimaksud dengan sidang tugas akhir?", "apa yang dimaksud dengan sidang ta?"],
+            "question": ["apa itu sidang tugas akhir?", "apa itu sidang ta?", "apa yang dimaksud dengan sidang tugas akhir?", "apa yang dimaksud dengan sidang ta?", "yang dimaksud dengan sidang tugas akhir?", "yang dimaksud dengan sidang ta?", "sidang tugas akhir adalah", "sidang ta adalah?", "sidang tugas akhir itu apa?", "sidang ta itu apa?", "sidang tugas akhir", "sidang ta", "sidang tugas akhir untuk apa?", "sidang ta untuk apa?", "tujuan sidang tugas akhir?", "tujuan sidang ta?", "untuk apa sidang ta?", "untuk apa sidang tugas akhir", "sidang tugas akhir bertujuan untuk?", "sidang ta bertujuan untuk?"],
             "answer": ["Sidang untuk mempresentasikan laporan tugas akhir. Untuk informasi pendaftaran sidang TA dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
         },
         {   "tag": "semhas",
-            "question": ["apa itu seminar hasil?", "apa itu semhas?", "apa yang dimaksud dengan seminar hasil?", "apa yang dimaksud dengan semhas?"],
+            "question": ["apa itu seminar hasil?", "apa itu semhas?", "apa yang dimaksud dengan seminar hasil?", "apa yang dimaksud dengan semhas?", "seminar hasil adalah", "semhas adalah", "seminah hasil itu apa?", "semhas itu apa?", "seminar hasil itu apa ya?", "semhas itu apa ya?", "seminar hasil", "semhas", "seminar hasil bertujuan untuk?", "semhas bertujuan untuk?", "seminar hasil untuk apa?", "semhas untuk apa?", "tujuan seminar hasil", "tujuan semhas", "untuk apa seminar hasil?", "untuk apa semhas?"],
             "answer": ["Seminar hasil adalah seminar untuk mempresentasikan hasil dari penelitian kepada adik tingkat. Untuk informasi pendaftaran seminar hasil dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA "]
         },
         {   "tag": "yudisium",
-            "question": ["apa itu yudisium?", "apa yang dimaksud dengan yudisium?"],
+            "question": ["apa itu yudisium?", "apa yang dimaksud dengan yudisium?", "yang dimaksud dengan yudisium?", "yudisium adalah", "yudisium itu apa?", "yudisium itu apa ya?", "yudisium", "apakah itu yudisium?", "apakah yang dimaksud dengan yudisium?", "kelulusan mahasiswa"],
             "answer": ["Yudisium adalah proses akademik yang menyangkut penerapan nilai dan kelulusan mahasiswa dari seluruh pross akademik yang telah dijalaninya. Untuk informasi pendaftaran yudisium dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA "]
         },
         {   "tag": "wisuda",
-            "question": ["apa itu wisuda?", "apa yang dimaksud dengan wisuda?"],
+            "question": ["apa itu wisuda?", "apa yang dimaksud dengan wisuda?", "wisuda itu apa?", "wisuda itu apa ya?", "wisuda", "wisuda adalah", "proses akhir dari kuliah?", "apa proposes paling akhir dari perkuliahan?", "proses akhir dari perkuliahan?", "proses akhir perkuliahan?", "apakah yang dimaksud dengan wisuda?"],
             "answer": ["Wisuda adalah proses akhir dalam rangkaian kegiata akademik pada sebuah perguruan tinggi. Untuk pendaftara wisuda dapat dilakukan di https://infokhs.umm.ac.id/"]
         },
         {   "tag": "syarat_sempro",
-            "question": ["apa saja syarat untuk seminar proposal?", "apa saja syarat untuk sempro?", "syarat seminar proposal", "syarat sempro"],
-            "answer":["Untuk mendaftar seminar proposal diperlukan dokumen sebagai berikut: 1. Form rekomendasi judul TA oleh dosen pembimbing, 2. Lembar Kendali menghadiri Seminar Hasil sebagai audiens, 3. Draft Proposal TA"]
+            "question": ["apa saja syarat untuk seminar proposal?", "apa saja syarat untuk sempro?", "syarat seminar proposal", "syarat sempro", "apa aja syarat seminar proposal?", "apa aja syarat sempro?", "syarat untuk seminar proposal?", "syarat untuk sempro?", "yang dibutuhkan untuk seminar proposal?", "yang dibutuhkan untuk sempro", "apa aja yang dibutuhkan untuk seminar proposal?", "apa aja yang dibutuhkan untuk sempro?", "syarat untuk mendaftar semmpro", "syarat untuk mendaftar seminar proposal", "dokumen untuk pendaftaran seminar proposal", "dokumen untuk pendaftaran sempro", "apakah Form rekomendasi judul TA oleh dosen pembimbing harus ditandatangani oleh kedua dosen pembimbing?", " apakah boleh Form rekomendasi judul TA oleh dosen pembimbing hanya ditandatangani oleh salah satu dari dosen pembimbing?", "Apakah boleh Form rekomendasi judul TA oleh dosen pembimbing ditandatangan oleh pembimbing 1 saja?", "Berapa jumlah judul dari tugas akhir semhas yang harus dipenuhi?", "Berapa jumlah judul dari tugas akhir seminar yang harus dipenuhi", "Jumlah judul tugas akhir seminar hasil", "jumlah judul tugas akhir semhas", "Apakah lembar kendali menghadiri semhas harus ditangangi oleh Ketua Tugas Akhir?", "Siapa yang harus menandatangai lembar kendali menghadiri semhas?", "berapa kali harus menghadiri seminar hasil?", "berapa kali harus menghadiri semhas", "jumlah minimal mengadiri semhas", "jumlah minimal menghadiri seminar hasil", "menghadiri semhas berapa kali?", "menghadiri seminar hasil berapa kali?" ],
+            "answer":["Untuk mendaftar seminar proposal diperlukan dokumen sebagai berikut: 1. Form rekomendasi judul TA oleh dosen pembimbing (tanda tangan dari dua dosen pembimbing), 2. Lembar Kendali menghadiri Seminar Hasil sebagai audiens (minimal 10 judul tugas akhir dan ditandatangani oleh Ketua Tugas Akhir), 3. Draft Proposal TA"]
         },
         {   "tag": "syarat_sidang",
-            "question": ["apa saja syarat untuk sidang tugas akhir?", "apa saja syarat untuk sidang?", "syarat sidang tugas akhir", "syarat sidang"],
+            "question": ["apa saja syarat untuk sidang tugas akhir?", "apa saja syarat untuk sidang?","apa saja syarat untuk sidang ta", "syarat sidang tugas akhir","syarat sidang ta", "syarat sidang", "dokumen untuk pendaftaran sidang ta", "dokumen untuk pendaftaran tugas akhir", "dokumen apa aja yang dibutuhkan untuk mendaftar sidang tugas akhir?", "dokumen apa aja yang dibutuhkan untuk mendaftar sidang ta?", "dokumen yang dibutuhkan untuk mmendaftar sidang ta", "dokumen yang dibutuhkan untuk mendaftar sidang tugas akhir", "Apakah laporan tugas akhir dikumpulkan secara terpisah setiap bab?", "Apakah cek plagiarisme dibutuhkan untuk mendaftar sidang tugas akhir?", "apakah cek plagiarisme dibutuhkan untuk mendaftar sidang ta", "apakah form cek plagiarisme membutuhkan tandatangan dari dosen pembimbing?", "apakah tandatangan dosen pembimbing dibutuhkan untuk form cek plagiarisme?", "format pengumpulan laporan TA?", "format pengumpulan laporan Tugas Akhir?", "Laporan Tugas Akhir dikumpulkan dalam format apa?", "Laporan TA dikumpulkan dalam format apa?", "apa saja syarat untuk pendaftaran sidang tugas akhir?", "apa saja syarat untuk pendaftaran sidang TA?", "syarat pendaftaran sidang tugas akhir", "syarat pendaftaran sidang ta", "syarat pendaftaran sidang tugas akhir", "syarat pendaftaran sidang ta", "dokumen untuk sidang ta", "dokumen untuk sidang tugas akhir", "dokumen untuk pendaftaran sidang tugas akhir", "dokumen untuk pendaftaran sidang ta"],
             "answer":["Untuk  mendaftar sidang TA diperlukan dokumen administrasi sebagai berikut 1. Check list persyaratan ujian TA, 2. Laporan Tugas AKhir BAB 5 (format PDF), 3. Laporan Tugas Akhir BAB 4 (format PDF), 4. Laporan Tugas Akhir BAB 3 (format PDF), 5. Laporan Tugas Akhir BAB 2 (format PDF), 6. Laporan Tugas Akhir BAB 1 (format PDF), 7. Form cek plagiarisme dan ditanda tangani Dosen Pembimbing / Koordinator cek plagiarisme, 8. Tanda Terima jurnal repositor, 9. Form pendaftaran Seminar Hasil, 10. Scan Form Asistensi Tugas Akhir, 11. Laporan Tugas AKhir lengkap. Selebihnya dapat diakses di https://bit.ly/TemplateTugasAkhirUMM"]
         },
         {   "tag": "syarat_semhas",
-            "question": ["apa saja syarat untuk seminar hasil?", "apa saja syarat untuk semhas?", "syarat seminar hasil", "syarat semhas"],
+            "question": ["apa saja syarat untuk seminar hasil?", "apa saja syarat untuk semhas?", "syarat seminar hasil", "syarat semhas", "syarat untuk seminar hasil", "syarat untuk semhas", "apa saja syarat untuk pendaftaran seminar hasil?", "apa saja syarat untuk pendaftaran semhas?", "syarat untuk pendaftaran seminar hasil", "seminar untuk pendaftaran semhas", "apa syarat untuk seminar hasil?", "apa syarat untuk semhas?", "apa syarat seminar hasil?", "apa syarat semhas?", "apa syarat untuk pendaftaran seminar hasil?", "apa syarat untuk pendaftaran semhas?", "syarat untuk mendaftar seminar hasil", "syarat untuk mendaftar semhas", "syarat pendaftara seminar hasil", "syarat pendaftaran semhas", "syarat mendaftar seminar hasil", "syarat mendaftar semhas"],
             "answer":["Untuk mendaftar seminar hasil diperlukan dokumen administrasi sebagai berikut Lembar Berita Acara Seminar Proposal, Lembar Asistensi Dosen Pembimbing (Minimal 10x bimbingan), dan draft buku TA"]
         },
         {   "tag": "syarat_yudisium",
-            "question": ["apa saja syarat untuk yudisium?", "syarat yudisium"],
+            "question": ["apa saja syarat untuk yudisium?", "syarat yudisium", "syarat untuk yudisium", "apa sajakah syarat untuk yudisium?", "apa saja syarat untuk pendaftaran yudisium?", "apa saja syarat untuk mendaftar yudisium?", "syarat pendaftaran yudisium", "syarat mendaftar yudisium", "syarat untuk pendaftaran yudisium", "syarat untuk mendaftar yudisium", "apa sajakah syarat untuk pendaftaran yudisium", "apa sajakah syarat untuk mendaftar yudisium"],
             "answer":["Untuk melakukan pendaftaran yudisium harus melengkapi berkas seperti berita acara ujian TA, form cek plagiasi, dll"]
         },
         {   "tag": "syarat_wisuda",
-            "question": ["apa saja syarat untuk wisuda?", "syarat wisuda"],
+            "question": ["apa saja syarat untuk wisuda?", "syarat wisuda", "syarat untuk wisuda", "apa sajakah syarat untuk wisuda", "apa saja syarat untuk pendaftaran wisuda?", "apa saja syarat untuk mendaftar wisuda?", "syarat pendaftaran wisuda", "syarat mendaftar wisuda", "syarat untuk pendaftaran wisuda", "syarat untuk mendaftar wisuda", "apa sajakah syarat untuk pendaftaran wisuda", "apa sajakah syarat untuk mendaftar wisuda", "setelah melengkapi persyaratan apakah perlu melakukan konfirmasi?", "Konfirmasi telah melengkapi syarat wisuda kemana?"],
             "answer":["Prasyarat pendaftaran wisuda sebagai berikut: 1. Bebas tanggungan dari Program Studi, 2. Kesesuaian periode wisuda, 3. Pembayaran wisuda, 4. Pengisian tracer studi (http://karir.umm.ac.id/v2), 5. Deposit Toga. Untuk info lebih lanjut silahkan konfirmasi ke biro kemahasiswaan UMM."]
         },
         {   "tag": "dosbing",
-            "question": ["berapa jumlah dosen pembimbing dalam pengerjaan tugas akhir?"],
+            "question": ["berapa jumlah dosen pembimbing dalam pengerjaan tugas akhir?", "jumlah dosen pembimbing pengerjaan tugas akhir", "berapa jumlah dosen pembimbing tugas akhir?", "jumlah pembimbing tugas akhir", "jumlah pembimbing", "berapa jumlah dosen pembinging dalam pengerjan ta", "berapa jumlah dosen pembimbing ta?", "jumlah pembimbing ta", "jumlah dosen pembimbing tugas akhir", "jumlah dosen pembimbing ta", "jumlah dosen pembimbing", "berapa jumlah dospem untuk tugas akhir?", "berapa jumlah dosbing untuk tugas akhir?", "jumlah dospem untuk tugas akhir", "jumlah dosbing untuk tugas akhir?", "berapa jumlah dospem tugas akhir", "berapa jumlah dosbing tugas akhir?", "jumlah dopem tugas akhir", "jumlah dosbing tugas akhir", "berapa dosen pembimbing ta?", "berapa dosen pembimbing tugas akhir?", "berapa jumlah dospem untuk ta?", "berapa jumlah dosbing untuk ta?", "berapa jumlah dospem ta?", "berapa jumlah dosbing ta?", "jumlah dospem ta", "jumlah dosbing ta", "jumlah dospem dalam pengerjaan tugas akhir", "jumlah dosbing dalam pengerjaan tugas akhir", "jumlah dospem dalam pengerjaan ta", "jumlah dosbing dalam pengerjaan ta"],
             "answer": ["Dalam pengerjaan tugas akhir mahasiswa akan dibantu oleh dua (2) dosen pembimbing"]
         },
         {   "tag": "dosbing_1",
-            "question": ["apakah dosen pembimbing tugas akhir ditentukan langsung oleh program studi?"],
+            "question": ["apakah dosen pembimbing tugas akhir ditentukan langsung oleh program studi?", "apakah dosen pembimbing tugas akhir dipilih sendiri?", "Apakah dosen pembimbing tugas akhir ditentukan oleh mahasiswa sendiri?", "Apakah mahasiswa bebas untuk memilihi dosen pembimbing?","Dosen pembimbing ditentukan oleh siapa?", "dosen pembimbing dipilih oleh siapa?", "dospem ditentukan sendiri atau prodi?", "dosbing ditentukan sendiri atau prodi?", "dospem dipilih oleh siapa?", "dosbing dipilih oleh siapa?", "dospem ditentukan oleh siapa?", "dosbing ditentukan oleh siapa?"],
             "answer": ["Dosen Pembimbing Tugas Akhir dapat dipilih sendiri oleh mahasiswa. Untuk melihat ketersediaan dosen dapat diakses di https://simanta.umm.ac.id/"]
         },
         {   "tag": "memilih_dosbing",
-            "question": ["bagaimana cara memilih dosen pembimbing?", "memilih dosen pembimbing"],
-            "answer": ["Pemilihan Dosen Pembimbing Tugas Akhir disarankan memilih sesuai dengan penjurusan yang diambil. Untuk melihat ketersediaan dosen dapat diakses di https://simanta.umm.ac.id"]
-        },
-        {   "tag": "memilih_dosbing_1",
-            "question": ["apakah dosen pembimbing yang dipilih harus sesuai dengan penjurusan yang diambil?"],
+            "question": ["bagaimana cara memilih dosen pembimbing?", "memilih dosen pembimbing", "cara memilih dosen pembimbing", "apakah pemilihan dosen pembimbing herus sesuai dengan penjurusan yang diambil?", "apakah tugas akhir dengan bidang minat data science harus memilihi dosen pembimbing  dari data science juga?", "apakah tugas akhir dengan bidang minat RPL harus memilihi dosen pembimbing  dari RPL juga?", "apakah tugas akhir dengan bidang minat jaringan harus memilihi dosen pembimbing  dari jaringan juga?", "apakah tugas akhir dengan bidang minat game cerdas harus memilihi dosen pembimbing  dari game cerdas juga?", "bagaimana cara memilih dospem?", "bagaimana cara memilih dosbing?", "cara memilih dospem", "cara memilih dosbing", "memilih dospem", "memilih dosbing"],
             "answer": ["Pemilihan Dosen Pembimbing Tugas Akhir disarankan memilih sesuai dengan penjurusan yang diambil. Untuk melihat ketersediaan dosen dapat diakses di https://simanta.umm.ac.id"]
         },
         {   "tag": "syarat_bimbingan",
@@ -122,10 +118,6 @@
         {   "tag": "perbedaan_tahap",
             "question": ["apa perbedaan dari seminar proposal, seminar hasil, dan yudisium?"],
             "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Sidang tugas akhir merupakan sidang untuk mempresentasikan laporan tugas akhir. Seminar hasil adalah seminar untuk mempresentasikan hasil dari penelitian kepada adik tingkat."]
-        },
-        {   "tag": "sempro_1",
-            "question": ["apa itu seminar proposal?", "seminar proposal adalah"],
-            "answer": ["Seminar proposal adalah seminar untuk mempresentasikan proposal tugas akhir. Untuk informasi pendaftaran proposal dapat dilihat pada panduan berikut https://bit.ly/PanduanSIMTA"]
         },
         {   "tag": "informasi",
             "question" : ["informasi mengenai tugas akhir dapat diakses dimana?"],
