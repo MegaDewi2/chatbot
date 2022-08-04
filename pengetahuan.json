@@ -192,47 +192,47 @@
             "answer": ["1. Bidang Kegiatan Organisasi dan Kepemimpinan, 2. Bidang Kegiatan Penalaran dan Keilmuan, 3. Bidang Kegiatan Minat Bakat dan Kegemaran, 4. Bidang Kegiatan Sosial, 5. Kegiatan Lain (Study Comparatif, Magang, dll), 6. Bidang Kegiatan Keagamaan, 7. Kegiatan Wajib (Kegiatan yang wajib diikuti mahasiswa dan bersertifikat). Dapat dilihat di https://skpi.umm.ac.id/"]
         },
         {   "tag": "mulai_ta",
-            "question": ["kapan sebaiknya mulai mengerjakan tugas akhir?", "kapan sebaiknya mulai mengerjakan skripsi?", "kapan sebaiknya mulai mengerjakan ta?"],
+            "question": ["kapan sebaiknya mulai mengerjakan tugas akhir?", "kapan sebaiknya mulai mengerjakan skripsi?", "kapan sebaiknya mulai mengerjakan ta?", "memulai mengerjakan ta", "memulai mengerjakan tugas akhir", "memulai mengerjakan skripsi", "mulai mengerjakan ta", "mulai mengerjakan tugas akhir", "mulai mengerjakan skripsi", "kapan harusnya mulai mengerjakan ta?", "kapan harusnya mulai mengerjakan tugas akhir?", "kapan harusnya mulai mengerjakan skripsi", "mulai ngerjain ta", "mulai ngerjan tugas akhir", "mulai ngerjain skripsi"],
             "answer": ["Pada semester terdapat mata kuliah praskripsi yang menjadi awal dari pembuatan proposal skripsi"]
         },
         {   "tag": "deadline_revisi_sempro",
-            "question": ["berapa lama batas pengerjaan revisi setelah seminar proposal?", "berapa lama deadline revisi setelah seminar proposal?", "berapa lama batas pengerjaan revisi setelah sempro?","berapa lama deadline revisi setelah sempro?"],
+            "question": ["berapa lama batas pengerjaan revisi setelah seminar proposal?", "berapa lama deadline revisi setelah seminar proposal?", "berapa lama batas pengerjaan revisi setelah sempro?","berapa lama deadline revisi setelah sempro?", "deadline revisi sempro", "deadline revisi seminar proposal", "batas pengerjaan revisi sempro", "batas pengerjaan revisi seminar proposal", "deadline pengerjaan revisi sempro", "deadline pengerjaan revisi seminar proposal", "batas akhir pengumpulan revisi sempro", "batas akhir pengumpulan revisi seminar proposal", "deadline pengumpulan revisi sempro", "deadline pengumpulan revisi seminar proposal","batas pengumpulan revisi sempro", "batas pengumpulan revisi seminar proposal", "waktu pengumpulan revisi sempro", "waktu pengumpulan revisi seminar proposal"],
             "answer": ["Pengerjaan revisi setelah seminar proposal paling lambat 1 minggu atau 7 hari."]
         },
         {   "tag": "deadline_revisi_sidang",
-            "question": ["berapa lama batas pengerjaan revisi setelah sidang tugas akhir?", "berapa lama deadline revisi setelah sidang tugas akhir?", "berapa lama batas pengerjaan revisi setelah sidang?","berapa lama deadline revisi setelah sidang?"],
+            "question": ["berapa lama batas pengerjaan revisi setelah sidang tugas akhir?", "berapa lama deadline revisi setelah sidang tugas akhir?", "berapa lama batas pengerjaan revisi setelah sidang?","berapa lama deadline revisi setelah sidang?", "deadline revisi sidang", "deadline revisi sidang ta", "deadline revisi sidang tugas akhir", "deadline revisi sidang akhir", "deadline revisi sidang skripsi", "batas pengerjaan revisi sidang", "batas pengerjaan revisi sidang akhir", "batas pengerjaan revisi sidang ta", "batas pengerjaan revisi sidang tugas akhir", "batas akhir pengumpulan revisi sidang", "batas akhir pengumpulan revisi sidang akhir", "batas akhir pengumpulan revisi sidang ta", "batas akhir pengumpulan revisi sidang tugas akhir", "batas akhir pengumpulan revisi sidang skripsi", "deadline pengumpulan revisi sidang", "deadline pengumpulan revisi sidang ta", "deadline pengumpulan revisi sidang tugas akhir", "deadline pengumpulan revisi sidang skripsi","batas pengumpulan revisi sidang", "batas pengumpulan revisi sidang akhir", "batas pengumpulan revisi sidang ta", "batas pengumpulan revisi sidang tugas akhir", "batas pengumpulan revisi sidang skripsi"],
             "answer": ["Pengerjaan revisi setelah sidang TA paling lambat 2 minggu atau 14 hari"]
         },
         {   "tag": "syarat_kelulusan",
-            "question": ["apa saja syarat kelulusan?", "syarat kelulusan"],
+            "question": ["apa saja syarat kelulusan?", "syarat kelulusan","apa saja syarat untuk kelulusan", "apa saja syarat untuk lulus", "syarat untuk kelulusan", "syarat lulus", "syarat untuk lulus", "ipk kurang dari 2.00 apakah bisa lulus?", "tidak mengulang matakuliah dengan nilai D atau E apakah dapat lulus?", "ketentuan kelulusan", "ketentuan lulus", "ketentuan untuk lulus", "ketentuan untuk kelulusan", "apa saja ketentuan kelulusan?", "apa saja ketentuan untuk kelulusan", "apa saja ketentuan untuk lulus", "syarat agar bisa lulus", "ketentuan agar bisa lulus"],
             "answer": ["Mahasiswa Program Sarjana dinyatakan lulus bila telah berhasil menyelesaikan seluruh beban studi dan kewajiban lainnya dengan IPK >= 2,00 tanpa nilai D dan E"]
         },
         {   "tag": "predikat_kelulusan",
-            "question": ["Bagaimana tingkatan lulusan?", "Tingkatan lulusan"],
+            "question": ["Bagaimana tingkatan lulusan?", "Tingkatan lulusan", "predikat untuk lulusan", "predikat kelulusan", "predikat lulusan", "predikat untuk setiap lulusan", "predikat setiap lulusan", "tingkatan untuk lulusan", "tingkatan  setiap lulusan", "tingkatan untuk setiap lulusan"],
             "answer": ["Kepada lulusan program Diploma, Sarjana, Profesi, Magister, dan Doktor diberikan Predikat kelulusan yang terdiri dari 3 (tiga) tingkat yaitu: Memuaskan, Sangat Memuaskan, dan Dengan Pujian"]
         },
         {   "tag": "indikator_predikat",
-            "question": ["Apa saja indikator dalam predikat kelulusan?", "indikator predikat kelulusan"],
+            "question": ["Apa saja indikator dalam predikat kelulusan?", "indikator predikat kelulusan", "indikator dari predikat kelulusan", "predikat kelulusan dilihat dari?", "predikat kelulusan dilihat dari apa?","yang dilihat dalam menentukan predikat kelulusan", "yang dilihat dalam menentukan predikat lulusan", "indikator dari predikat lulusan", "indikator dari tingkatan lulusan", "indikator dari predikat kelulusan"],
             "answer": ["Predikat kelulusan dilihat dari Indeks Prestasi Kumulatif(IPK) dan waktu penyelesaian studi"]
         },
         {   "tag": "ipk",
-            "question": ["Bagaimana predikat kelulusan berdasarkan Indeks Prestasi Kumulatif dan waktu penyelesaian studi?", "Bagaimana predikat kelulusan berdasarkan IPK?", "Predikat kelulusan berdasarkan IPK"],
+            "question": ["Bagaimana predikat kelulusan berdasarkan Indeks Prestasi Kumulatif dan waktu penyelesaian studi?", "Bagaimana predikat kelulusan berdasarkan IPK?", "Predikat kelulusan berdasarkan IPK", "tingkatan lulusan berdasarkan IPK", "predikat lulusan berdasarkan IPK", "ipk untuk mendapat predikat dengan pujian", "ipk untuk mendapat predikat sangat memuaskan", "ipk untuk mendapat predikat memuaskan", "predikat untuk ipk dibawah 3.00", "predikat untuk ip lebih dari 3.50 dengan masa studi lebih dari 8 semester"],
             "answer": ["1. Memuaskan IPK 2,76 sampai 3,00; 2. Sangat memuaskan IPK 3,01 sampai 3,50; 3. Dengan pujian IPK lebih dari 3,50 dan lulus dalam masa studi maksimal 6 (enam) semester untuk Diploma Tiga dan 8 (delapan) semester untuk Program Sarjana."]
         },
         {   "tag": "lulusan_terbaik",
-            "question": ["Bagaimana penentuan lulusan terbaik tingkat Fakultas dan Universitas? "],
+            "question": ["Bagaimana penentuan lulusan terbaik tingkat Fakultas dan Universitas?", "penentuan lulusan terbaik", "lulusan terbaik", "menjadi lulusan terbaik", "lulusan terbaik fakultas dan universitas", "pertimbangan lulusan terbaik", "yang dilihat untuk menjadi lulusan terbaik", "pertimbangan dalam penentuan lulusan terbaik", "pertimbangan untuk menentukan lulusan terbaik", "aspek dalam penentuan lulusan terbaik", "aspek penentuan lulusan terbaik", "aspek untuk menentukan lulusan terbaik"],
             "answer": ["Penentuan Lulusan Terbaik tingkat Fakultas dan Universitas berdasarkan indeks dengan mempertimbangkan Indeks Prestasi Kumulatif, lama Studi, Surat Keterangan Pendamping Ijazah (SKPI), prosentase plagiasi, nilai Tugas Akhir bagi lulusan Diploma dan Sarjana; dengan porsi: Indeks Prestasi Kumulatif: 40%, Lama Studi: 30%, SKPI: 10%, prosentase plagiasi: 10%, dan nilai Tugas Akhir: 10%"]
         },
         {   "tag": "tata_tertib_ujian_ta",
-            "question": ["Bagaimana Tata Tertib Ujian Tugas Akhir?", "Tata tertib ujian Tugas Akhir", "Tata tertib ujian TA", "Tata tertib sidang TA", "Tata tertib sidang skripsi"],
+            "question": ["Bagaimana Tata Tertib Ujian Tugas Akhir?", "Tata tertib ujian Tugas Akhir", "Tata tertib ujian TA", "Tata tertib sidang TA", "Tata tertib sidang skripsi", "tata tertib dalam pelaksanaan sidang", "tata tertib dalam pelaksanaan sidang akhir", "tata tertib dalam pelaksaan sidang tugas akhir", "tata tertib dalam pelaksanaan sidang ta", "tata tertib dalam pelaksaan sidang skripsi"],
             "answer": ["1. Ujian Tugas Akhir diikuti oleh mahasiswa aktif yang namanya tercantum dalam daftar peserta Ujian Tugas Akhir sesuai dengan keputusan Dekan/Direktur. 2. Persyaratan mengikuti Ujian Tugas Akhir telah lulus semua matakuliah dan telah mengumpulkan naskah TA yang telah disetujui pembimbing. 3. Perserta hadir 15 (lima belas) menit sebelum ujian berlangsung. 4. Peserta berbaju putih, berdasi, celana/bawahan gelap, bersepatu, dengan mengenakan jas almamater. 5. Peserta tidak melakukan pelanggaran terhadap pertaturan disiplin mahasiswa dan alumnus UMM. 6. Hal-hal yang belum tercantum dalam tata tertib ini diatur lebih lanjut Fakultas/Program Studi"]
         },
         {   "tag": "wajib_lulus",
-            "question": ["Berapa maksimal semester mahasiswa wajib lulus?"],
+            "question": ["Berapa maksimal semester mahasiswa wajib lulus?", "semester wajib lulus", "maksimal semester untuk lulus", "semester maksimal untuk lulus", "mahasiswa wajib lulus pada semester berapa", "semester berapa mahasiswa wajib lulus", "wajib lulus pada semester berapa", "wajib lulus semester berapa", "maksimal semester", "maksimal semester kuliah"],
             "answer": ["Mahasiswa dinyatakan lulus sebagai Sarjana jika telah menyelesaikan beban studi dalam program studinya dengan IPK >= 2,0 tanpa nilai D dan E dalam waktu maksimal 14 (empat belas) semester."]
         },
         {   "tag": "taep",
-            "question": ["Test TAEP bagi wisudan"],
+            "question": ["Test TAEP bagi wisudawan", "apakah test taep wajib untuk wisudawan?", "test taep untuk wisudawan", "kapan test taep untuk wisudawan?", "apakah test taep wajib bagi wisudawan?", "test taep bagi wisudawan betujuan untuk?", "tujuan test taep bagi wisudawan", "test taep bagi wisudawan diwajibkan untuk?", "tujuan test taep untuk wisudawan","test taep wisudawan bertujuan untuk?"],
             "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
         }
     ]
