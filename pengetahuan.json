@@ -234,6 +234,10 @@
         {   "tag": "taep",
             "question": ["Test TAEP bagi wisudawan", "apakah test taep wajib untuk wisudawan?", "test taep untuk wisudawan", "kapan test taep untuk wisudawan?", "apakah test taep wajib bagi wisudawan?", "test taep bagi wisudawan betujuan untuk?", "tujuan test taep bagi wisudawan", "test taep bagi wisudawan diwajibkan untuk?", "tujuan test taep untuk wisudawan","test taep wisudawan bertujuan untuk?"],
             "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
+        },
+        {   "tag": "sk_ta",
+            "question": ["kapan sk ta akan keluar?", "sk ta", "keluarnya sk ta", "apa itu sk ta?", "sk ta adalah", "sk itu apa", "kapan sk tugas akhir keluar?", "sk tugas akhir", "keluarnya sk tugas akhir", "penerbitan sk ta", "penerbitan sk tugas akhir"],
+            "answer": ["Surat Keputusan Tugas Akhir (SK TA) merupakan surat yang dikeluarkan setelah mendapat nilai atau hasil seminar proposal"]
         }
     ]
 }
