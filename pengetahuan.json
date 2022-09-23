@@ -4,7 +4,7 @@
             "answer": ["Halloo, Selamat Datang. Ada yang bisa dibantu?"]
         },
         {   "tag": "salam_penutup",
-            "question": ["terima kasih", "makasih", "thank you", "thanks", "thx", "thank u", "terima kasih kak", "terima kasih min", "makasih kak", "makasih min","thank you kak", "thank you admin", "thank you min", "thank u kak", "thank u min", "thank u admin", "wassalamualaikum", "wassalamualaikum kak", "wassalamualaikum admin", "wassalamualaikum min"],
+            "question": ["terima kasih","terimakasih", "makasih", "thank you", "thanks", "thx", "thank u", "terima kasih kak", "terima kasih min", "makasih kak", "makasih min","thank you kak", "thank you admin", "thank you min", "thank u kak", "thank u min", "thank u admin", "wassalamualaikum", "wassalamualaikum kak", "wassalamualaikum admin", "wassalamualaikum min"],
             "answer": ["Dengan senang hati membantu kamu"]
         },
         {   "tag" : "skripsi",
