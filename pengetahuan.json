@@ -1,6 +1,6 @@
 {"simanta": [
         {   "tag": "salam_pembuka",
-            "question": ["hai", "hallo", "permisi", "hai kak",  "hai min","halo kak","halo min","permisi kak","permisi min","Assalamualaikum", "Assalamu'alaikum", "Assalamualaikum kak", "Assalamualaikum min", "Assalamu'alaikum kak", "Assalamu'alaikum min", "min, mau nanya", "kak, mau nanya", "permisi mau tanya", "permisi mau nanya", "mau tanya seputar ta", "saya ingin bertanya", "aku mau nanya"],
+            "question": ["hai", "hallo","halo","haloo","haii", "permisi", "hai kak",  "hai min","halo kak","halo min","permisi kak","permisi min","Assalamualaikum", "Assalamu'alaikum", "Assalamualaikum kak", "Assalamualaikum min", "Assalamu'alaikum kak", "Assalamu'alaikum min", "min, mau nanya", "kak, mau nanya", "permisi mau tanya", "permisi mau nanya", "mau tanya seputar ta", "saya ingin bertanya", "aku mau nanya"],
             "answer": ["Halloo, Selamat Datang. Ada yang bisa dibantu?"]
         },
         {   "tag": "salam_penutup",
