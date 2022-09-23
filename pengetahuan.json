@@ -1,6 +1,6 @@
 {"simanta": [
         {   "tag": "salam_pembuka",
-            "question": ["hai", "hallo","halo","haloo","haii", "permisi", "hai kak",  "hai min","halo kak","halo min","permisi kak","permisi min","Assalamualaikum", "Assalamu'alaikum", "Assalamualaikum kak", "Assalamualaikum min", "Assalamu'alaikum kak", "Assalamu'alaikum min", "min, mau nanya", "kak, mau nanya", "permisi mau tanya", "permisi mau nanya", "mau tanya seputar ta", "saya ingin bertanya", "aku mau nanya"],
+            "question": ["hai", "hallo","halo","haloo","hello","haii", "permisi", "hai kak",  "hai min","halo kak","halo min","permisi kak","permisi min","Assalamualaikum", "Assalamu'alaikum", "Assalamualaikum kak", "Assalamualaikum min", "Assalamu'alaikum kak", "Assalamu'alaikum min", "min, mau nanya", "kak, mau nanya", "permisi mau tanya", "permisi mau nanya", "mau tanya seputar ta", "saya ingin bertanya", "aku mau nanya"],
             "answer": ["Halloo, Selamat Datang. Ada yang bisa dibantu?"]
         },
         {   "tag": "salam_penutup",
@@ -232,7 +232,7 @@
             "answer": ["Mahasiswa dinyatakan lulus sebagai Sarjana jika telah menyelesaikan beban studi dalam program studinya dengan IPK >= 2,0 tanpa nilai D dan E dalam waktu maksimal 14 (empat belas) semester."]
         },
         {   "tag": "taep",
-            "question": ["Test TAEP bagi wisudawan", "apakah test taep wajib untuk wisudawan?", "test taep untuk wisudawan", "kapan test taep untuk wisudawan?", "apakah test taep wajib bagi wisudawan?", "test taep bagi wisudawan betujuan untuk?", "tujuan test taep bagi wisudawan", "test taep bagi wisudawan diwajibkan untuk?", "tujuan test taep untuk wisudawan","test taep wisudawan bertujuan untuk?"],
+            "question": ["Test TAEP bagi wisudawan", "apakah test taep wajib untuk wisudawan?", "test taep untuk wisudawan", "kapan test taep untuk wisudawan?", "apakah test taep wajib bagi wisudawan?", "test taep bagi wisudawan betujuan untuk?", "tujuan test taep bagi wisudawan", "test taep bagi wisudawan diwajibkan untuk?", "tujuan test taep untuk wisudawan","test taep wisudawan bertujuan untuk?", "taep","tes taep"],
             "answer": ["Test TAEP wajib diikuti semua wisudawan yang diselenggarakan tiap kali sebelum wisuda universitas dilaksanakan. Test ini bertujuan un tuk mengetahui perkembangan kompetensi mahasiswa dalam bahasa Inggris setelah mereka mengikuti kuliah ESP"]
         },
         {   "tag": "sk_ta",
