@@ -1,0 +1,21 @@
+{"simanta": [
+        {   
+            "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening",]
+        },
+        {   
+            "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun"]
+        },
+        {
+            "question": ["skripsweet", "skrepseeeh", "skrepseh", "pengertian skripsi", "skripsiii"]
+        },
+        {
+            "question": ["semprooo", "semproo", "pengertian sempro"]
+        },
+        {
+            "question": ["sidaang", "pengertian sidang", "kenapa ada sidang?"]
+        },
+        {
+            "question": ["share bimbingan dosen", "kenapa dosen susah dihubungi", "gimana menghubungi dosen pembimbing"]
+        }
+    ]
+}
