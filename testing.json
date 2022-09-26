@@ -1,29 +1,37 @@
 {"simanta": [
         {   
+            "tag": "salam_pembuka",
             "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening"]
         },
         {   
+            "tag": "salam_penutup",
             "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun"]
         },
-        {
+        {   "tag": "skripsi",
             "question": ["skripsweet", "skrepseeeh", "skrepseh", "pengertian skripsi", "skripsiii"]
         },
         {
+            "tag": "sempro",
             "question": ["semprooo", "semproo", "pengertian sempro"]
         },
         {
+            "tag": "sidang",
             "question": ["sidaang", "pengertian sidang", "kenapa ada sidang?"]
         },
         {
+            "tag": "dosbing",
             "question": ["share bimbingan dosen", "kenapa dosen susah dihubungi", "gimana menghubungi dosen pembimbing"]
         },
         {
+            "tag": "bimbingan",
             "question": ["jadwal bimbingan tidak menentu", "bimbingan tak menentu", "jadwal bimbingan tidak jelas", "waktu bimbingan tidak menentu", "waktu bimbingan tidak jelas"]
         },
         {
+            "tag": "skpi",
             "question": ["ngurus skpi", "mengurus skpi", "gimana ngurus skpi", "gimana mengurus skpi", "bagaimana ngurus skpi", "bagaimana mengurus skpi"]
         },
         {
+            "tag": "informasi",
             "question": ["prosedur tugas akhir", "prosedur ta", "prosedur skripsi"]
         }
     ]
