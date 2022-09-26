@@ -1,6 +1,6 @@
 {"simanta": [
         {   
-            "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening"]
+            "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening",]
         },
         {   
             "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun"]
@@ -16,6 +16,15 @@
         },
         {
             "question": ["share bimbingan dosen", "kenapa dosen susah dihubungi", "gimana menghubungi dosen pembimbing"]
+        },
+        {
+            "question": ["jadwal bimbingan tidak menentu", "bimbingan tak menentu", "jadwal bimbingan tidak jelas", "waktu bimbingan tidak menentu", "waktu bimbingan tidak jelas"]
+        },
+        {
+            "question": ["ngurus skpi", "mengurus skpi", "gimana ngurus skpi", "gimana mengurus skpi", "bagaimana ngurus skpi", "bagaimana mengurus skpi"]
+        },
+        {
+            "question": ["prosedur tugas akhir", "prosedur ta", "prosedur skripsi"]
         }
     ]
 }
