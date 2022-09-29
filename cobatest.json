@@ -8,23 +8,23 @@
         "answer": ["Dengan senang hati membantu kamu"]
     },
     {   "tag" : "skripsi",
-        "question": ["skripsweet", "skrepseeeh", "skrepseh", "pengertian skripsi", "skripsiii"],
+        "question": ["skripsweet", "skrepseeeh", "skrepseh", "pengertian skripsi", "skripsiii", "skripsi apa sih?", "apa tu skripsi?", "skripsi apa ya min?", "skripsi sama ga sama tugas akhir?", "bedanya skripsi dan tugas akhir"],
         "answer": ["Skripsi adalah salah satu mata kuliah dan menjadi tugas akhir sebagai syarat untuk kelulusan dalam bentuk penelitian sebanyak 6 sks"]
     }, 
     {   "tag": "syarat_ujian_ta",
-        "question": ["gimana syarat untuk ikut ujian ta", "ikut ujian ta", "ikut sidang", "syarat ikut sidang"],
+        "question": ["gimana syarat untuk ikut ujian ta", "ikut ujian ta", "ikut sidang", "syarat ikut sidang", "syarat ikut ujian ta"],
         "answer": ["Persyaratan mengikuti ujian Tugas Akhir telah lulus semua matakuliah dan telah mengumpulkan naskah TA yang telah disetujui pembimbing"]
     },
     {   "tag": "proposal_ta",
-        "question": ["susunan proposal", "susunan bab proposal", "susunan proposal gimana"],
+        "question": ["susunan proposal", "susunan bab proposal", "susunan proposal gimana", "bab proposal skripsi", "bab proposal tugas akhir"],
         "answer": ["Proposal Tugas AKhir merupakan usulan dari ide yang ingin di teliti. Proposal TA terdiri dari 3 BAB, yaitu Pendahuluan, Metode Penelitian, dan Kesimpulan. Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM"]
     },
     {   "tag": "laporan_ta",
-        "question": ["susunan laporan", "susunan bab laporan", "laporan gimana"],
+        "question": ["susunan laporan", "susunan bab laporan", "laporan gimana", "kapan laporan dibuat?", "kapan laporan skripsi dibuat?", "kapan laporan ta dibuat?", "waktu untuk membuat laporan", "mmebuat laporan tugas akhir"],
         "answer": ["Laporan Tugas Akhir dibuat setelah penelitian dilakukan. Laporan TA terdiri 5 BAB, yaitu Pendahuluan, Tinjaun Pustaka, Metodologi Penelitian, Hasil dan Pembahasan, dan Kesimpulan. Template Laporan Tugas Akhir dapat diakses melalui link berikut: https://bit.ly/TemplateTugasAkhirUMM "]
     },
     {   "tag": "alur_pengerjaan",
-        "question": ["gimana alur pengerjaan ta?", "pengerjaan ta mulai dari mana?", "tahap tahap ngerjain ta"],
+        "question": ["gimana alur pengerjaan ta?", "pengerjaan ta mulai dari mana?", "tahap tahap ngerjain ta", "tahap ngerjain ta", "mulai dari mana ngerjain ta"],
         "answer": ["Alur pengerjaan tugas akhir sebagai berikut : 1. Pengajuan judul, 2. Pembuatan proposal, 3. Seminar proposal, 4. SK TA, 5. Sidang Tugas Akhir, 6. Seminar Hasil, 7. Yudisium, 8. Wisuda"]
     },
     {   "tag": "sempro",
