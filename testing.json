@@ -1,38 +1,198 @@
 {"simanta": [
-        {   
-            "tag": "salam_pembuka",
-            "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening"]
-        },
-        {   
-            "tag": "salam_penutup",
-            "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun"]
-        },
-        {   "tag": "skripsi",
-            "question": ["skripsweet", "skrepseeeh", "skrepseh", "pengertian skripsi", "skripsiii"]
-        },
-        {
-            "tag": "sempro",
-            "question": ["semprooo", "semproo", "pengertian sempro"]
-        },
-        {
-            "tag": "sidang",
-            "question": ["sidaang", "pengertian sidang", "kenapa ada sidang?"]
-        },
-        {
-            "tag": "dosbing",
-            "question": ["share bimbingan dosen", "kenapa dosen susah dihubungi", "gimana menghubungi dosen pembimbing"]
-        },
-        {
-            "tag": "bimbingan",
-            "question": ["jadwal bimbingan tidak menentu", "bimbingan tak menentu", "jadwal bimbingan tidak jelas", "waktu bimbingan tidak menentu", "waktu bimbingan tidak jelas"]
-        },
-        {
-            "tag": "skpi",
-            "question": ["ngurus skpi", "mengurus skpi", "gimana ngurus skpi", "gimana mengurus skpi", "bagaimana ngurus skpi", "bagaimana mengurus skpi"]
-        },
-        {
-            "tag": "informasi",
-            "question": ["prosedur tugas akhir", "prosedur ta", "prosedur skripsi"]
-        }
-    ]
+    {   
+        "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening", "hallow", "haloow"]
+        
+    },
+    {   
+        "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun", "makasih ya min", "makasih banyak", "terimakasih banyak mimin"]
+        
+    },
+    {   
+        "question": ["skripsweet", "skrepseeeh", "skrepseh", "pengertian skripsi", "skripsiii"]
+        
+    }, 
+    {   
+        "question": ["gimana syarat untuk ikut ujian ta", "ikut ujian ta", "ikut sidang", "syarat ikut sidang"]
+        
+    },
+    {   
+        "question": ["susunan proposal", "susunan bab proposal", "susunan proposal gimana"]
+       
+    },
+    {   
+        "question": ["susunan laporan", "susunan bab laporan", "laporan gimana"]
+        
+    },
+    {   
+        "question": ["gimana alur pengerjaan ta?", "pengerjaan ta mulai dari mana?", "tahap tahap ngerjain ta"]
+       
+    },
+    {   
+        "question": ["sempro itu gimana?", "proposal ta buat apa?", "info sempro", "sempro gimana?", "sempro gimana ya?","gimana sih sempro?"]
+        
+    },
+    {   
+        "question": ["sidang itu gimana?", "sidang buat apa", "info sidang", "sidang gimana?", "sidang gimana ya?", "gimana sih sidang"]
+       
+    },
+    {   
+        "question": ["semhas itu gimana?", "semhas buat apa", "info semhas", "semhas gimana?", "semhas gimana ya?", "semhas sih sidang"]
+        
+    },
+    {   
+        "question": ["yudisium itu gimana?", "yudisium buat apa", "info yudisium", "yudisium gimana?", "yudisium gimana ya?", "gimana sih yudisium"]
+        
+    },
+    {   
+        "question": ["wisuda itu gimana?", "wisuda buat apa", "info wisuda", "wisuda gimana?", "wisuda gimana ya?", "gimana sih wisuda"]
+        
+    },
+    {  
+        "question": ["berkas sempro", "berkas sempro yang dikumpulkan", "apa aja berkas sempro"]
+       
+    },
+    {   
+        "question": ["Berkas sidang?", "berkas untuk sidang", "yang diperlukan untuk sidang?"]
+        
+    },
+    {   
+        "question": ["berkas semhas","syarat administasi semhas", "berkas unutuk semhas"]
+       
+    },
+    {   
+        "question":["berkas yudisiu", "berkas untuk ikut yudisium", "yang diperlukan untuk yudisium"]
+    },
+    {   
+        "question": ["prasyarat sidang", "yang penuhi untuk wisuda", "yang perlu dipenuhi untuk wisudan"]
+    },
+    {   
+        "question": ["berapa banyak dosen pembimbing untuk skripsi", "banyak dosen pembimbing untuk skripsi","dosen pembimbing untuk skripsi"]
+    },
+    { 
+        "question": ["dosbing dipilih sendiri atau dari prodi", "dosen pembimbing dipilih mahasiswa atau dari prodi", "pemilihan dosen pembimbing dari mahasiswa sendiri atau dari prodi"]
+    },
+    { 
+        "question": ["Menentukan dosen pembimbing","dospem harus dari penjurusan yang sama", "nentukan dospem"]
+    },
+    { 
+        "question": ["Total bimbingan", "minimal bimbingan", "berapa total bimbingan ta?", "berapa total bimbingan skripsi?"]
+    },
+    {   
+        "question": ["template laporan", "bagi template laporan min", "info template laporan"]
+    },
+    { 
+        "question": ["template proposal", "bagi template proposal min", "info template proposal"]
+    },
+    {  
+        "question": ["jadwal bimbingan", "jadwal dosen bimbingan", "jadwal dosen bimbingan"]
+    },
+    {  
+        "question":["nentuin topik", "nentuin judul ta", "gimana nentuin topik ta"]
+    },
+    {   
+        "question": ["ngambil skripsi sambil ngambil matkul lain", "bisa ga ngambil skripsi tapi masih ada matkul lain?", "ngambil skripsi tapi masih ada matkul lain bisa?"]
+    },
+    { 
+        "question": ["ngajuin judul skripsi", "ngajuin judul tugas akhir", "ngajudi judul skripsi harus kemana?"]
+    },
+    {  
+        "question": ["pwngumpulan data", "data", "data untuk penelitian", "data untuk skripsi", "data untuk ta"]
+    },
+    {   
+        "question": ["perbedaan antar tahap","tahapan dari sempro hingga wisuda", "tahapan skripsi"]
+    },
+    {   
+        "question" : ["prosedur tugas akhir", "prosedur ta", "prosedur skripsi"]
+    },
+    {   
+        "question": ["daftar sempro gimana", "gimana ya daftar sempro", "info daftar sempro dong"]
+    },
+    {
+        "question": ["daftar sidang gimana", "gimana ya daftar sidang", "info daftar sidang dong"]
+    },
+    {   
+        "question" :["daftar semhas gimana", "gimana ya daftar semhas", "info daftar semhas dong"]
+    },
+    {   
+        "question" : ["daftar yudisium gimana", "gimana ya daftar yudisium", "info daftar yudisium dong"]
+    },
+    {   
+        "question" : ["daftar wisuda gimana", "gimana ya daftar wisuda", "info daftar wisuda dong"]
+    },
+    {  
+        "question": ["lulus tanpa ta bisa ga?", "bisa ga lulus tanpa skripsi?"]
+    },
+    {  
+        "question": ["lulus tanpa ta gimana", "gimana lulus tanpa ta", "info lulus tanpa ta  dong"]
+    }, 
+    {  
+        "question": ["pengganti tugas akhir ada ga?", "kegiatan pengganti ta"]
+    },
+    {   
+        "question": ["gimana ketentuan ekuivalensi", "ketentuan ekuivalensi gimana"]
+    },
+    {   
+        "question" : ["gimana persiapan sempro", "bagaimana mempersiapkan sempro", "persiapan sempro apa ya?"]
+    },
+    {  
+        "question" : ["gimana persiapan sidang", "bagaimana mempersiapkan sidang", "persiapan sidang apa ya?"]
+    },
+    { 
+        "question" : ["gimana persiapan semhas", "bagaimana mempersiapkan semhas", "persiapan semhas apa ya?"]
+    },
+    {  
+        "question" : ["persiapan sebelum yudisium", "gimana mempersiapakan yudisium"]
+    },
+    {   
+        "question" : ["persiapan sebelum yudisium", "gimana mempersiapakan yudisium"]
+    },
+    {  
+        "question": ["total sks untuk lulus", "total sks yang wajib dipenuhi"]
+    },
+    {  
+        "question": ["skpi itu gimana?", "skpi gimana?"]
+    },
+    {   
+        "question": ["total skpi untuk lulus", "total skpi sebagai syarat lulus", "total point skpi"]
+    },
+    {  
+        "question": ["kegiatan dengan point skpi?", "kegiatan untuk point skpi", "bidamg apa aja yang mendapat point skpi?"]
+    },
+    {   
+        "question": ["waktu untuk mmulai mngerjakan skprisi", "semester berapa mulai ngerjain skripsi?"]
+    },
+    {   
+        "question": ["waktu maksimal untuk mengumpulkan revisi proposal", "maksimal waktu pengumpulan revisi proposal"]
+    },
+    {   
+        "question": ["waktu maksimal untuk mengumpulkan revisi laporan", "maksimal waktu pengumpulan revisi laporan"]
+    },
+    {   
+        "question": ["lulus", "mahasiswa dinyatakan lulus", "dinyatakan lulus"]
+    },
+    {   
+        "question": ["tingkatan predikat kelulusan", "tingkat pedikat lulus"]
+    },
+    {   
+        "question": ["predikat kelulusan berdasarkan apa?", "indikator kelulusan bagi wisudawan?"]
+    },
+    {   
+        "question": ["IPK mempengaruhi predikat kelulusan?", "gimana predikat kelulusan dilihat dari IPK?"]
+    },
+    {  
+        "question": ["yang menentukan lulusan terbaik", "lulusan terbaik perfakultas", "lulusan terbaik universitas"]
+    },
+    {   
+        "question": ["peraturan saat sidang", "peraturan saat ujian ta"]
+    },
+    { 
+        "question": ["maksimal semester menyelesaikan kuliah", "kuliah sampai semester berapa maksimal?"]
+    },
+    { 
+        "question": ["test taep wisudawan", "sebelum wisuda harus test taep?"]
+    },
+    { 
+        "question": ["selang berapa lama sk ta keluar setelah sempro", "berapa lama sk ta keluar?"]
+    }
+]
 }
