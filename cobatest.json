@@ -1,10 +1,10 @@
 {"simanta": [
     {   "tag": "salam_pembuka",
-        "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening"],
+        "question": ["haiiiii", "haloooo", "hellooooo", "heloooo", "hellaw","apa kabar?", "mau nanya dong", "morning", "good morning", "good afternoon", "good evening", "hallow", "haloow"],
         "answer": ["Halloo, Selamat Datang. Ada yang bisa dibantu?"]
     },
     {   "tag": "salam_penutup",
-        "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun"],
+        "question": ["maaci", "maaciw","makasiiiii", "suwun", "nuhun", "matur suwun", "makasih ya min", "makasih banyak", "terimakasih banyak mimin"],
         "answer": ["Dengan senang hati membantu kamu"]
     },
     {   "tag" : "skripsi",
