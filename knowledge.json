@@ -188,7 +188,7 @@
         "answer": ["Jumlah minimal SKPI yang harus dipenuhi adalah 350 point"]
     },
     {   "tag": "kegiatan_skpi",
-        "question": ["kegiatan apa saja yang mendapat point skpi?", "kegiatan skpi", "kegiatan untuk skpi", "kegiatan yang mendapat point skpi", "kegiatan yang diberi point skpi", "kegiatan apa saja yang diberi point skpi?", "point skpi dari kegiatan apa?", "point skpi dari kegiatan apa aja?", "point skpi didapat dari kegiatan apa?", "point skpi didapat dari mana?", "kegiatan untuk mendapat point skpi",, "kegiatan dengan point skpi?", "kegiatan untuk point skpi", "bidamg apa aja yang mendapat point skpi?"],
+        "question": ["kegiatan apa saja yang mendapat point skpi?", "kegiatan skpi", "kegiatan untuk skpi", "kegiatan yang mendapat point skpi", "kegiatan yang diberi point skpi", "kegiatan apa saja yang diberi point skpi?", "point skpi dari kegiatan apa?", "point skpi dari kegiatan apa aja?", "point skpi didapat dari kegiatan apa?", "point skpi didapat dari mana?", "kegiatan untuk mendapat point skpi", "kegiatan dengan point skpi?", "kegiatan untuk point skpi", "bidamg apa aja yang mendapat point skpi?"],
         "answer": ["1. Bidang Kegiatan Organisasi dan Kepemimpinan, 2. Bidang Kegiatan Penalaran dan Keilmuan, 3. Bidang Kegiatan Minat Bakat dan Kegemaran, 4. Bidang Kegiatan Sosial, 5. Kegiatan Lain (Study Comparatif, Magang, dll), 6. Bidang Kegiatan Keagamaan, 7. Kegiatan Wajib (Kegiatan yang wajib diikuti mahasiswa dan bersertifikat). Dapat dilihat di https://skpi.umm.ac.id/"]
     },
     {   "tag": "mulai_ta",
